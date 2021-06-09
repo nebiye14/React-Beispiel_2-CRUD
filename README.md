@@ -29,7 +29,7 @@ Führt die App im Entwicklungsmodus aus.
 ###### `npx json-sever --watch src/api/movies.json --port 3002`
 
 Führt die App im Entwicklungsmodus aus.
-Öffnen Sie http://localhost:3000, um es im Browser anzuzeigen.
+Öffnen Sie http://localhost:3002, um es im Browser anzuzeigen.
 
 Die Seite wird neu geladen, wenn Sie Änderungen vornehmen.
 Sie werden auch Flusenfehler in der Konsole sehen.
