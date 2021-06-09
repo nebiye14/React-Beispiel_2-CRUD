@@ -1,5 +1,8 @@
 # React Beispiel-2 / CRUD-Operationen mit React JS 
 
+Mit dieser Anwendung können Sie die Filme in der vorhandenen JSON-Datei anzeigen, Filme hinzufügen, Filme löschen und Änderungen an Filmen vornehmen. 
+
+
 In diesem Projekt werden:
 
   *Fonksiyonel Component,
@@ -11,8 +14,6 @@ In diesem Projekt werden:
   *React Router,
   *JSON Server etc. verwendet.
 
-
-### Erste Schritte mit Create React App
 
 Dieses Projekt wurde mit [Create React App](https://github.com/facebook/create-react-app) gebootet.
 
